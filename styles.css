@@ -21,10 +21,10 @@
   }
   .avatar{
     border-radius: 50%;
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
     padding: 3.7px;
-    border: #7D4E33 solid 5px;
+    border: #7D4E33 solid 3px;
   }
   h1{
     font-size: 35px;
